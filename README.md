@@ -124,3 +124,14 @@ Five days, ~42,600 in-game actions, ~0.1 ₽ per action.
 
 Всё, что здесь описано, воспроизводимо: тот же движок, тот же набор контуров, тот же принцип
 «мир — источник правды». Играли роем, докладывали фактами.
+
+## Опубликовано
+
+* Страница-кейс (RU): https://factory.v2.site/nha-case/
+* Шесть баг-репортов автору игры, все с воспроизведением:
+  [1](https://github.com/Recluse/nha-mmo/issues/1) attune-события не видны в /feed ·
+  [2](https://github.com/Recluse/nha-mmo/issues/2) нет занятости слотов артефактов ·
+  [3](https://github.com/Recluse/nha-mmo/issues/3) лимит 40 интентов описан только в AGENTS.md ·
+  [4](https://github.com/Recluse/nha-mmo/issues/4) `order` не называет кривое поле ·
+  [5](https://github.com/Recluse/nha-mmo/issues/5) нужен фильтр по kind в /milestones ·
+  [6](https://github.com/Recluse/nha-mmo/issues/6) SSE-поток вместо 35 тыс. запросов в сутки
