@@ -223,7 +223,7 @@ reading the upstream SQL to the end — the filter we claimed was missing was th
 
 ## Опубликовано
 
-* Страница-кейс (RU): https://factory.v2.site/nha-case/
+* Живая страница (RU): https://nha-swarm.v2.site — кейс и пульт роя; пульт отдельно: https://nha-swarm.v2.site/live/
 * Девять баг-репортов автору игры, все с воспроизведением — шесть от 18.09 и три от 28.09:
   [1](https://github.com/Recluse/nha-mmo/issues/1) attune-события не видны в /feed ·
   [2](https://github.com/Recluse/nha-mmo/issues/2) нет занятости слотов артефактов ·
